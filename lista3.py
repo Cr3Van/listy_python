@@ -1,6 +1,6 @@
 import random
 #zadanie 4
-# def czy_trpr(a,b,c):
+# def czy_tr_pr(a,b,c):
 #     if (a ** 2 + b ** 2 == c ** 2 or
 #         a ** 2 + c ** 2 == b ** 2 or
 #         b ** 2 + c ** 2 == a ** 2):
@@ -12,7 +12,7 @@ import random
 # a=int(input())
 # b=int(input())
 # c=int(input())
-# czy_trpr(a,b,c)
+# czy_tr_pr(a,b,c)
 #zadanie2
 # lista = []
 # a=0
